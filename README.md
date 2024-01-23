@@ -1,4 +1,4 @@
-Java OCR Project
+#Java OCR Project
 
 This project is designed to detect and delete similar images using OCR (Optical Character Recognition) technology and write them to a PDF file. It is developed in Java and integrates the Tess4J library for OCR processes.
 
